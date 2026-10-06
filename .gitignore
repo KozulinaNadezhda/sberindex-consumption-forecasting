@@ -1,0 +1,13 @@
+# Временные папки и кэш
+.vscode/
+catboost_info/
+__pycache__/
+*.pyc
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Служебные файлы Streamlit
+.streamlit/

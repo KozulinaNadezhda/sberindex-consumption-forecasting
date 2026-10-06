@@ -1,0 +1,19 @@
+{
+    "cutoff_date": "2024-06-01",
+    "test_horizon_months": 6,
+    "catboost_overall": {
+        "mae": 2211.77,
+        "r2": 0.939
+    },
+    "stratified_benchmark": {
+        "num_districts_tested": 12,
+        "average_prophet_mae": 49984.17,
+        "average_catboost_mae": 3194.33,
+        "overall_improvement_pct": 93.61
+    },
+    "coupled_shock_monitoring": {
+        "residual_std_rub": 3037.96,
+        "anomalies_flagged_count": 396,
+        "early_warning_mechanism": "Coupled NLP-Window Z-Score + Residual CUSUM"
+    }
+}
