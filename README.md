@@ -6,6 +6,7 @@
 
 ## 1. Ссылки на материалы проекта
 * **Интерактивный аналитический лендинг (Streamlit):** https://sberindex-consumption-forecasting.streamlit.app/
+  > *Примечание для комиссии: Дашборд развернут на платформе Streamlit Community Cloud. Если при переходе по ссылке отображается экран режима сна («This app has gone to sleep»), пожалуйста, нажмите на кнопку «Yes, get this app back up!» прямо в браузере — облачный сервер выйдет из спящего режима и запустит интерфейс за 30–40 секунд.*
 * **Методологический отчёт (PDF):** https://github.com/KozulinaNadezhda/sberindex-consumption-forecasting/blob/main/Methodology_Report.pdf
 * **Исходный код на GitHub:** https://github.com/KozulinaNadezhda/sberindex-consumption-forecasting
 
